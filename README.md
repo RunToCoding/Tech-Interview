@@ -7,7 +7,7 @@
 3. README.md에 내용 링크 추가해두기
 4. 커밋 방식
     - 질문 추가 : [Add] ✍️ 주제 적어주세요 <br/>
-        e.g. [Add] ✍️ String_vs._StringBuffer_vs._StringBuilder
+        e.g. [Add] ✍️ String vs.StringBuffer vs.StringBuilder
     - README 변경 : [Update] ✍️ README.md
 5. [진행 방식 참고하기](https://github.com/gyoogle/tech-interview-for-developer)
 
@@ -43,10 +43,9 @@
 ## 🔎 Back-End
 
 ### Spring
+- [Spring DI](./Spring/DI.md)
 
 ### JPA
-
-### Nginx
 
 ## 🔎 New Technology
 
