@@ -44,6 +44,7 @@
 
 ### Spring
 - [Spring DI](./Spring/DI.md)
+- [Spring Bean](./Spring/Bean.md)
 
 ### JPA
 
