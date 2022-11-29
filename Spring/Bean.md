@@ -65,9 +65,9 @@
     - @Bean Annotation을 사용해 직접 Bean을 정의하면 자동으로 Bean으로 등록된다.
     
     ```java
-    **@Configuration**
+    @Configuration
     public class ExampleConfiguration {
-        **@Bean**
+        @Bean
         public ExampleController exampleController() {
     	        return new ExampleController;//return되는 객체 ExampleController가 Bean 등록된다.
         }
