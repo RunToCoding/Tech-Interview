@@ -27,6 +27,7 @@
 ### Network
 
 ### Operating System
+- [CPU 스케줄링 알고리즘](./OperatingSystem/CPU_스케줄링_알고리즘.md)
 
 ### Software Engineering
 
